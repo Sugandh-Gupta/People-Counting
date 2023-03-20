@@ -8,6 +8,4 @@ venv/
 
 *.xlsx
 
-templates/
 
-hubconfcustom.py
